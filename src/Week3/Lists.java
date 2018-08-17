@@ -12,7 +12,7 @@ import java.util.ListIterator;
 
 /**
  *
- * @author Admin_M
+ * @author Jules Maurice
  */
 public class Lists {
 

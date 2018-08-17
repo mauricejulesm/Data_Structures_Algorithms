@@ -7,7 +7,7 @@ package Week2;
 
 /**
  *
- * @author Admin_M
+ * @author Jules Maurice
  */
 public class StackDemo {
 

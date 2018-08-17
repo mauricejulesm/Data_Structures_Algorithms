@@ -7,7 +7,7 @@ package Week3;
 
 /**
  *
- * @author Admin_M
+ * @author Jules Maurice
  */
 
 

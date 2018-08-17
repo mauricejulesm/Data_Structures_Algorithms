@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Admin_M
+ * @author Jules Maurice
  */
 public class ListClass {
 
